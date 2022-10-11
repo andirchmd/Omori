@@ -69,7 +69,7 @@
                 </div>
                 <div class="navbar-nav w-100">
                     <a href="user.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Dashboard</a>
-                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>Landing Page</a>
+                    <a href="../index.php" class="nav-item nav-link"><i class="fa fa-keyboard me-2"></i>Landing Page</a>
                         </div>
                     </div>
                 </div>
