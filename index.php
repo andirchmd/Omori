@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Omori</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
     <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
   </head>
@@ -20,7 +20,7 @@
                 <li><a href="#jasa">Kategori</a></li>
                 <li><a href="#about" id="about-open">About</a></li>
                 <li><button class="darkmode" id="darkmode-toggle">Light Mode</button></li>
-                <li><a href="assets/login.php">Login</a></li>
+                <li><a href="login.php">Login</a></li>
             </ul>
         </nav>
     </header>
@@ -34,7 +34,7 @@
   <div id="jasa" class="maincard">
     <h2>Kategori Game</h2>
     <div class="card">
-      <img src="assets/img/genshin.jpeg" class="content" width="350px"/>
+      <img src="img/genshin.jpeg" class="content" width="350px"/>
       <div class="deskrip">
         <span>Genshin Impact</span>
         <ul>
@@ -51,7 +51,7 @@
       </div>
     </div>
     <div class="card">
-      <img src="assets/img/arknek.jpg" class="content" width="350px"/>
+      <img src="img/arknek.jpg" class="content" width="350px"/>
       <div class="deskrip">
         <span>Arknights</span>
         <ul>
@@ -68,7 +68,7 @@
       </div>
     </div>
     <div class="card">
-      <img src="assets/img/mlbb.webp" class="content" width="350" />
+      <img src="img/mlbb.webp" class="content" width="350" />
       <div class="deskrip">
         <span>Mobile Legends</span>
         <ul>
@@ -91,7 +91,7 @@
           <div>
             <div class = "shadow">
               <div class = "about-img">
-                <img src = "assets/img/profilepic.png" alt = "about image">
+                <img src = "img/profilepic.png" alt = "about image">
               </div>
             </div>
             <h2>Andi Rachmad Triandika Rusli</h2>
@@ -106,6 +106,6 @@
         </div>
       </div>
       <footer class="footer">&copy; Copyright 2022 Omori Project - by Andi</footer>
-      <script src="assets/javascript.js"></script>
+      <script src="javascript.js"></script>
   </body>
 </html>
